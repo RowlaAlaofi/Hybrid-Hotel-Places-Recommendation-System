@@ -4,8 +4,8 @@ This project is a Hybrid Recommendation System that provides personalized recomm
 The system is built using Gradio to create an interactive interface that users can access to receive customized recommendations in real time.
 
 📋 Features:
-🌐 Interactive Gradio Interface for user-friendly experience.
-🏨 Hotel Recommendations based on user input preferences.
-🗺️ Places Recommendations such as museums, theaters, and galleries.
-🌍 City Dropdown with Arabic Translations to cater to local audiences.
-🎯 Hybrid Recommendation Algorithm combining various filtering techniques.
+. Interactive Gradio Interface for user-friendly experience.
+. Hotel Recommendations based on user input preferences.
+. Places Recommendations such as museums, theaters, and galleries.
+. City Dropdown with Arabic Translations to cater to local audiences.
+. Hybrid Recommendation Algorithm combining various filtering techniques.
